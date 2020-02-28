@@ -1,0 +1,42 @@
+<div class="row">
+  <div class="col-md-9">
+    <table class="table text-center guest-table">
+      <tr>
+        <th class="bg-success text-white">LOKET 1</th>
+        <th class="bg-danger text-white">LOKET 2</th>
+        <th class="bg-info text-white">LOKET 3</th>
+      </tr>
+      <tr>
+        <td>{{#unless op.[0]}}SIAP{{/unless}} {{op.[0].[0].number}}</td>
+        <td>{{#unless op.[1]}}SIAP{{/unless}} {{op.[1].[0].number}}</td>
+        <td>{{#unless op.[2]}}SIAP{{/unless}} {{op.[2].[0].number}}</td>
+      </tr>
+      <tr>
+        <th class="bg-secondary text-white">LOKET 4</th>
+        <th class="bg-primary text-white">LOKET 5</th>
+        <th class="bg-dark text-white">LOKET 6</th>
+      </tr>
+      <tr>
+        <td>{{#unless op.[3]}}SIAP{{/unless}} {{op.[3].[0].number}}</td>
+        <td>{{#unless op.[4]}}SIAP{{/unless}} {{op.[4].[0].number}}</td>
+        <td>{{#unless op.[5]}}SIAP{{/unless}} {{op.[5].[0].number}}</td>
+      </tr>
+    </table>
+  </div>
+  <div class="col-md-3">
+    <div class="alert alert-warning text-center">
+      <h4>Nomor Antrian Selanjutnya</h4>
+      <hr>
+      <h4 class="alert alert-dark">{{op.[6].[0].number}}</h4>
+      <h4 class="alert alert-secondary">{{op.[6].[1].number}}</h4>
+      <h4 class="alert alert-primary">{{op.[6].[2].number}}</h4>
+    </div>
+   
+<b>INFO PELAYANAN</b>
+<ul style="color:red;font-size:17px">
+<li>SENIN - JUMAT Pukul 08.00 - 14.00</li><hr>
+<li>SABTU - MINGGU Pukul 08.00 - 12.00</li>
+</ul>
+
+  </div>
+</div>
