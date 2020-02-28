@@ -1,6 +1,8 @@
 # ngantri
 Aplikasi Antrian Berbasis Node JS
+Bisa multi loket
 
+Pengembangan bisa hubungi kami
 <hr>
 
 Source code gratis aplikasi antrian berbasis node js dan mysql. <b>TIDAK DIPERJUAL BELIKAN</b>
@@ -8,7 +10,7 @@ Source code gratis aplikasi antrian berbasis node js dan mysql. <b>TIDAK DIPERJU
 <hr>
 <h2>BAGAIMANA CARA INSTALL NYA?</h3>
 <ul>
-  <li>git clone https://github.com/mtegarsp/ngantri</li>
+  <li>git clone </li>
   <li>npm i</li>
   <li>npm run dev</li>
   <li>Upload <b>sabarv3.sql</b> ke database MYSQL kesayanganmu</li>
@@ -18,5 +20,4 @@ Source code gratis aplikasi antrian berbasis node js dan mysql. <b>TIDAK DIPERJU
 </ul>
 <hr>
 <b>Ada pertanyaan lain / Partnership?</b><br>
-<p>081379947983 (WA)<br>
-<a href="https://facebook.com/mtegarsp">M Tegar S (FACEBOOK)</a></p>
+<p>083 114 888 752 (WA)<br> Gentamasbali.com</p>
