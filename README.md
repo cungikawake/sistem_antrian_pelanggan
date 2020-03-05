@@ -11,7 +11,8 @@ Source code gratis aplikasi antrian berbasis node js dan mysql. <b>TIDAK DIPERJU
 <h2>BAGAIMANA CARA INSTALL NYA?</h3>
 <ul>
   <li>git clone </li>
-  <li>npm i</li>
+  <li>delete node_modules</li>
+  <li>npm install</li>
   <li>npm run dev</li>
   <li>Upload <b>sabarv3.sql</b> ke database MYSQL kesayanganmu</li>
   <li>Konfigurasi file <b>conn.js</b> sesuai settingan database</li>
