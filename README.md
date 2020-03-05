@@ -1,6 +1,7 @@
 # ngantri
 Aplikasi Antrian Berbasis Node JS
-Bisa multi loket
+-Bisa multi jenis loket (max 6 komputer loket)
+-Cetak ntrian (cooming soon)
 
 Pengembangan bisa hubungi kami
 <hr>
